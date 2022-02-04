@@ -1,6 +1,7 @@
 - Hi, I’m @jiyuntsai
 - Slowly on my way to become a data journalist yay
 - Please reach me on twitter @jiyun_tsai or instagram @jiyunpider
+- I also do some doodling @washijiyun
 - OR just simply email me at jiyun_tsai@berkeley.edu
 
 <!---
