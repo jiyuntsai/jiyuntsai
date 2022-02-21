@@ -1,8 +1,8 @@
-- Hi, I’m @jiyuntsai
+- Hi, I’m @jiyuntsai, yeah that profile pic is me
 - Slowly on my way to become a data journalist yay
 - Please reach me on twitter @jiyun_tsai or instagram @jiyunpider
-- I also do some doodling @washijiyun
-- OR just simply email me at jiyun_tsai@berkeley.edu
+- OR just simply email me at jiyun_tsai@berkeley.edu 
+- I also do some doodling on Instagram @washijiyun
 
 <!-- NOTE
 1. # means h1 and ## means h2, all the way to h6
