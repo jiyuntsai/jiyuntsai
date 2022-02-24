@@ -1,4 +1,4 @@
-- Hi, I’m @jiyuntsai, yeah that profile pic is me
+- Hey y'all, I’m @jiyuntsai, yeah that profile pic is me
 - Slowly on my way to become a data journalist yay
 - Please reach me on twitter [@jiyun_tsai](https://twitter.com/jiyun_tsai) or instagram [@jiyunpider](https://www.instagram.com/jiyunpider/)
 - OR just simply email me at jiyun_tsai@berkeley.edu 
