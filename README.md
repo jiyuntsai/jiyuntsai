@@ -1,5 +1,5 @@
 - Hey y'all, I’m @jiyuntsai, yeah that profile pic is me
-- Slowly on my way to become a data journalist yay
+- Slowly on my way to become a data journalist
 - Please reach me on twitter [@jiyun_tsai](https://twitter.com/jiyun_tsai) or instagram [@jiyunpider](https://www.instagram.com/jiyunpider/)
 - OR just simply email me at jiyun_tsai@berkeley.edu 
 - I also do some doodling on Instagram [@washijiyun](https://www.instagram.com/washijiyun/)
